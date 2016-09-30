@@ -1,2 +1,1 @@
-# google-homepage
-Mini-project for the Odin Project
+This is the first project in HTML that is at theodinproject.com
